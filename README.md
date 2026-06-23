@@ -80,6 +80,6 @@ All your data stays on your device. Nothing is sent to servers. You have full co
 
 ---
 
-**Version**: 1.0  
+**Version**: 2.0  
 **Author**: waelwageeh-tech  
 **License**: MIT
