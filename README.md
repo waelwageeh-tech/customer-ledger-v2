@@ -30,7 +30,7 @@ A modern, offline-first customer ledger application for managing sales, payments
 
 ## Quick Start
 
-1. Open the app: [Customer Ledger v1](https://waelwageeh-tech.github.io/customer-ledger-v2/)
+1. Open the app: [Customer Ledger v2](https://waelwageeh-tech.github.io/customer-ledger-v2/)
 2. Click **+ Add** to create your first customer
 3. Click on any customer to add transactions
 4. Use **Export** to download reports
